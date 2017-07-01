@@ -1,0 +1,4 @@
+break explode_bomb
+break *(explode_bomb + 29)
+break phase_6
+break *(phase_5 + 38)
